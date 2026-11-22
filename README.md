@@ -4,6 +4,8 @@ Authorized, isolated lab for reproducing the OpenJDK Base64 intrinsic memory
 corruption ("Java4Shell"). Use only against systems you own or have written
 permission to test.
 
+Progress against the lab goals is tracked in [`PROGRESS.md`](PROGRESS.md).
+
 ## What this is
 
 A minimal Java HTTP service that Base64-decodes the `Authorization: Basic ...`
